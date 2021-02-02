@@ -4,7 +4,7 @@ A CATEGORY definition provides the topmost-level of filtering available.
 
 In this example, we use the 'Filter by Function' definition to define the CATEGORY.
 
-```ksp
+```text
 CATEGORY
 {
     name = Filter by Function
@@ -36,7 +36,7 @@ CATEGORY
 
 In-depth explanation of each element:
 
-```ksp
+```text
 CATEGORY
 {
     // The name/title of the category that will be visible in-game and the id used for Module Manager patches.
@@ -85,3 +85,4 @@ CATEGORY
     // NOTE: Regardless where FILTER:CHECK nodes are placed they will be loaded before any SUBCATEGORIES.
 }
 ```
+

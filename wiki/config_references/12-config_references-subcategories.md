@@ -2,7 +2,7 @@
 
 A SUBCATEGORIES definition provides an additional level of filtering below the CATEGORY level.
 
-```ksp
+```text
 SUBCATEGORY
 {
     name = Ablative Heat Shields
@@ -26,7 +26,7 @@ SUBCATEGORY
 
 In depth explanation of each element:
 
-```ksp
+```text
 // Three node types are used to completely define a subcategory.  
 // SUBCATEGORY, root node, contains the UI and logic elements.
 // FILTER and CHECK nodes are used to identify which parts should be visible within the subcategory
@@ -93,3 +93,4 @@ SUBCATEGORY
     }
 }
 ```
+

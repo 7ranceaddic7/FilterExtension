@@ -9,10 +9,11 @@
 
 ## Examples
 
-* [Simple example](https://github.com/7ranceaddic7/FilterExtension/wiki/20-Example-Simple(Squad-wings))
-* [Intermediate example](https://github.com/7ranceaddic7/FilterExtension/wiki/22-Example-Intermediate(some-optional-values))
+* \[Simple example\]\([https://github.com/7ranceaddic7/FilterExtension/wiki/20-Example-Simple\(Squad-wings](https://github.com/7ranceaddic7/FilterExtension/wiki/20-Example-Simple%28Squad-wings)\)\)
+* \[Intermediate example\]\([https://github.com/7ranceaddic7/FilterExtension/wiki/22-Example-Intermediate\(some-optional-values](https://github.com/7ranceaddic7/FilterExtension/wiki/22-Example-Intermediate%28some-optional-values)\)\)
 
 ## Language
 
 * [Localization](https://github.com/7ranceaddic7/FilterExtension/wiki/Localization)
-* [Translations] Any localizations offered will be gladly and gratefully accepted.
+* \[Translations\] Any localizations offered will be gladly and gratefully accepted.
+
